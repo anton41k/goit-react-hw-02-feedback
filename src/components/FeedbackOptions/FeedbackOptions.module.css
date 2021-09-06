@@ -1,0 +1,12 @@
+.container_options {
+  width: 205px;
+  margin: 0 auto;
+}
+
+button {
+  width: 65px;
+}
+
+button:not(:last-child) {
+  margin-right: 5px;
+}
